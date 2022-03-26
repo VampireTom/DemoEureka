@@ -1,1 +1,1 @@
-web: java -jar target/DemoEureka-1.0.0.jar --server.port=10000
+web: java -jar target/DemoEureka-1.0.0.jar
